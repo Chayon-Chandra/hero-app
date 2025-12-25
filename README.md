@@ -1,4 +1,4 @@
-Live Link: https://roaring-lamington-ecfbbc.netlify.app/apps
+Live Link: roaring-lamington-ecfbbc.netlify.app
 
 
 
